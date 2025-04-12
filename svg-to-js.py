@@ -5,7 +5,7 @@ from xml.dom import Node
 from xml.dom.minidom import parseString
 
 # Icon prefix in Home Assistant
-ICONS_PREFIX = "custom"
+ICONS_PREFIX = "jsf"
 
 
 def circle_to_path(circle):
